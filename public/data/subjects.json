@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "subject": "ReactJS",
+    "description": "With a program design that includes 04 semesters with many important technologies such as ReactJS, PHP, Python, .NET Core, Spring boot brings learners to the world of programming quickly, most effectively.",
+    "image": "/image/reactjs.svg"
+  },
+  {
+    "id": 2,
+    "subject": "PHP",
+    "description": "With a program design that includes 04 semesters with many important technologies such as ReactJS, PHP, Python, .NET Core, Spring boot brings learners to the world of programming quickly, most effectively.",
+    "image": "/image/php.svg"
+  },
+  {
+    "id": 3,
+    "subject": ".NET",
+    "description": "With a program design that includes 04 semesters with many important technologies such as ReactJS, PHP, Python, .NET Core, Spring boot brings learners to the world of programming quickly, most effectively.",
+    "image": "/image/net.svg"
+  }
+]

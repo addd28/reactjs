@@ -1,0 +1,85 @@
+.homepage {
+  font-family: "Segoe UI", sans-serif;
+  color: #333;
+  text-align: center;
+  background-color: #fff;
+}
+
+/* --- Banner --- */
+.banner img {
+  width: 100%;
+  max-height: 320px;
+  object-fit: cover;
+  margin-top: 20px;
+}
+
+/* --- Section titles --- */
+.section {
+  padding: 40px 80px;
+}
+
+.section h2 {
+  font-size: 22px;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 24px;
+}
+
+/* --- Cards container --- */
+.cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+/* --- Card styles --- */
+.card {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  width: 300px;
+  padding: 16px;
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}
+
+.card img {
+  width: 100%;
+  border-radius: 8px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.card h3 {
+  color: #ff6600;
+  margin: 14px 0 8px 0;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.card p {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* --- Subjects --- */
+.subjects .subject-card img {
+  width: 90px;
+  height: 90px;
+  object-fit: contain;
+  margin-bottom: 8px;
+}
+
+/* --- Footer --- */
+.footer-bottom {
+  background: #fff7f0;
+  padding: 12px 0;
+  color: #333;
+  font-size: 14px;
+  border-top: 1px solid #ffe0c2;
+}
